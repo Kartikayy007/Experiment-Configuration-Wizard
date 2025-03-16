@@ -17,7 +17,6 @@ import {
   Typography, 
   Container,
   Grid,
-  Paper,
   AppBar,
   Toolbar,
   IconButton,
@@ -26,7 +25,6 @@ import {
 } from '@mui/material';
 
 // Import Google/Material icons
-import MenuIcon from '@mui/icons-material/Menu';
 import DownloadIcon from '@mui/icons-material/Download';
 import CodeIcon from '@mui/icons-material/Code';
 import HelpOutlineIcon from '@mui/icons-material/HelpOutline';
