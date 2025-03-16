@@ -47,11 +47,3 @@ npm run dev
 4. Add any additional options in JSON format if needed
 5. Click "Generate Config" to see the YAML preview
 6. Click "Download YAML" to save the configuration file
-
-## About
-
-This wizard is part of the Google Summer of Code (GSoC) 2025 project under DeepMind, aimed at improving the usability of OSS-Fuzz-Gen by streamlining experiment execution and reporting.
-
-## License
-
-MIT
